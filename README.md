@@ -65,5 +65,5 @@ It will help you find tutors without any other form of media and save you time a
 
 
 
-**Live Website - [Here]([https://meher-niger.github.io/TuitionPoint.git.io/])**
+**Live Website - [Here](https://meher-niger.github.io/TuitionPoint.git.io/)**
 
